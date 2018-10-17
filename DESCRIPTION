@@ -1,6 +1,6 @@
 Package: pruebasTravis
 Type: Package
-Title: The McCullagh Distribution
+Title: Summation
 Version: 0.1.1
 Authors@R: c(
             person("Mosquera,", "Jaime",, "jmosquerag@unal.edu.co", c("aut", "cre")), 
