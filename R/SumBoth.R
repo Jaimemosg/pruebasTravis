@@ -25,9 +25,6 @@
 #' 
 #' @importFrom stats
 #' @export
-
-#'  
-#' SumBoth function ---------------------------------------------------------------------
 SumBoth <- function(num1, num2) {
   if(class(num1) !=  "numeric") return("num1 must be numeric")
   if(class(num2) !=  "numeric") return("num2 must be numeric")
