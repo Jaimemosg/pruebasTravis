@@ -3,7 +3,7 @@ Type: Package
 Title: Summation
 Version: 0.1.1
 Authors@R: c(
-            person("Mosquera,", "Jaime",, "jmosquerag@unal.edu.co", c("aut", "cre")), 
+            person("Mosquera,", "Jaime",, "jmosquerag@unal.edu.co", c("aut", "cre"))
             )
 Maintainer: Jaime Mosquera <jmosquerag@unal.edu.co>
 Date: 2018-10-01
