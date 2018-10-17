@@ -1,2 +1,2 @@
 # pruebasTravis
-Repositorio para albergar un paquete de R y raelizar pruebas en el servicio **Travis**
+Repositorio creado para albergar un paquete de R y realizar pruebas en el servicio **Travis**.
