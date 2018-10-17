@@ -8,7 +8,7 @@ Authors@R: c(
 Maintainer: Jaime Mosquera <jmosquerag@unal.edu.co>
 Date: 2018-10-01
 Description: Contains a function that takes two real numbers and returns their summation.
-License: GPL-3
+License: GPL-3 | file LICENCE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.1.0
