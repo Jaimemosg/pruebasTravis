@@ -8,9 +8,7 @@
 #' 
 #' @examples
 #' 
-#' @importFrom stats
-#' @export
-#' # Sum two known numbers
+#' #' # Sum two known numbers
 #' x <- 1
 #' y <- 2
 #' # x + y = 1 + 2 = 3
@@ -21,6 +19,10 @@
 #' x <- "a"
 #' y <- 2
 #' SumBoth(x, y)
+#' 
+#' @importFrom stats
+#' @export
+
 #'  
 #' SumBoth function ---------------------------------------------------------------------
 SumBoth <- function(num1, num2) {
