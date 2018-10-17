@@ -1,7 +1,9 @@
 #' SumBoth
 #' 
 #' @author Jaime Mosquera Gutiérrez, \email{jmosquerag@unal.edu.co}
-#' 
+#' @description A function that takes two real numbers and returns their summation.
+#' @param num1 First number
+#' @param  num2 Second number
 #' 
 #' This function takes two real numbers and returns their summation
 #' 
