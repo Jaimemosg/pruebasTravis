@@ -4,6 +4,7 @@
 #' @description A function that takes two real numbers and returns their summation.
 #' @param num1 First number
 #' @param  num2 Second number
+#' @return The sum of \code{num1} and \code{num2}
 #' 
 #' This function takes two real numbers and returns their summation
 #' 
